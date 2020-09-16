@@ -12,6 +12,9 @@
  Text Domain:  astra
 */
 
-body {
-   
-}
+.ast-custom-button-link{display: none !important;}
+
+.main-header-bar{position: fixed;
+width:100%;}
+
+//* body{background-color: aqua !important;}
