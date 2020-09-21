@@ -17,4 +17,13 @@
 .main-header-bar{position: fixed;
 width:100%;}
 
-//* body{background-color: aqua !important;}
+.site-branding{padding-left:10%;}
+
+.main-header-bar {
+    padding: 0.5em 0;
+}
+portfolio-button{border:none !important;}
+
+.elementor-button-wrapper .elementor-button {border-style: none;}
+
+/* body{background-color: aqua !important;} */
